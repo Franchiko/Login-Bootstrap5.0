@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #ffe259;
+	background: linear-gradient(to right, #5f33eece, #d1842c);
+}
+
+.bg {
+	background-image: url("/assets/img/imagen\ chips\ mascotas.jpeg");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+p {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #d1842c;
+	line-height: 0.1em;
+	margin: 3.5em 0 1.1em;
+	color: #d1842c;
+}
+
+p span {
+	background: #fff;
+	padding: 0 2em;
+}
